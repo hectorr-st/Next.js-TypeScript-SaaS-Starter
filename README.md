@@ -200,4 +200,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Jitendra Nirnejak](https://github.com/hectorr-st)
+Made with ❤️ by [Suzuki Taro](https://github.com/hectorr-st)
